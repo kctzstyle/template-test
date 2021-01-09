@@ -1,2 +1,2 @@
-# first-template
-My First Template
+# template-test
+My First Template Test
